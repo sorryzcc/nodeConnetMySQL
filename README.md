@@ -1,1 +1,1 @@
-# nodeConnetMySQL
+npm install mysql2
